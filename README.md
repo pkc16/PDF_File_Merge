@@ -1,6 +1,8 @@
 # PDF_File_Merge
-Python3 app to merge two PDF files into single PDF file
+This is a simple Python3 application to merge two PDF files into single PDF file.
 
-This is a simple application which uses tkinter and PyPDF2.
+##Libraries used
+tkinter
+PyPDF2
 
 Author:  Peter Chung
