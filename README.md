@@ -5,4 +5,6 @@ This is a simple Python3 application to merge two PDF files into single PDF file
 - tkinter
 - PyPDF2
 
-Author:  Peter Chung
+
+## Author
+Peter Chung
